@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RefrigatorProject/RefrigatorProject.csproj" />
+  <Project Path="RefrigeratorLibrary/RefrigeratorLibrary.csproj" Id="f466bbb9-42ef-4030-a4e1-0a95087b8cbe" />
+</Solution>

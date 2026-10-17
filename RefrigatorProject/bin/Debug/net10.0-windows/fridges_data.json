@@ -1,0 +1,16 @@
+{
+  "$type": "System.Collections.Generic.List`1[[RefrigeratorLibrary.BaseRefrigerator, RefrigeratorLibrary]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "RefrigeratorLibrary.Refrigerator, RefrigeratorLibrary",
+      "Brand": "SAMSUNG",
+      "Model": "123",
+      "EfficiencyClass": 0,
+      "IsTurnedOn": false,
+      "PowerConsumptionWatts": 3,
+      "TotalVolume": 18,
+      "FridgeVolume": 6,
+      "CurrentTemperature": 4.0
+    }
+  ]
+}

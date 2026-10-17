@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigeratorlibrary\\smartfridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|solutionrelative:refrigeratorlibrary\\smartfridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigeratorlibrary\\hotelminibar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|solutionrelative:refrigeratorlibrary\\hotelminibar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigeratorlibrary\\refrigeratorwithfreezer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|solutionrelative:refrigeratorlibrary\\refrigeratorwithfreezer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigeratorlibrary\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|solutionrelative:refrigeratorlibrary\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigeratorlibrary\\baserefrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|solutionrelative:refrigeratorlibrary\\baserefrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigeratorlibrary\\energyefficiency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|solutionrelative:refrigeratorlibrary\\energyefficiency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigeratorlibrary\\invalidtemperatureexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F466BBB9-42EF-4030-A4E1-0A95087B8CBE}|RefrigeratorLibrary\\RefrigeratorLibrary.csproj|solutionrelative:refrigeratorlibrary\\invalidtemperatureexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigatorproject\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|solutionrelative:refrigatorproject\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigatorproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|solutionrelative:refrigatorproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigatorproject\\formadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|solutionrelative:refrigatorproject\\formadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\refrigatorproject\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|solutionrelative:refrigatorproject\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\refrigatorproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|solutionrelative:refrigatorproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigatorproject\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|solutionrelative:refrigatorproject\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|c:\\users\\peche\\onedrive\\desktop\\refrigatorproject\\refrigatorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A275E282-C921-4045-81B6-FCBE6C8781C1}|RefrigatorProject\\RefrigatorProject.csproj|solutionrelative:refrigatorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelMinibar.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\HotelMinibar.cs",
+              "RelativeDocumentMoniker": "RefrigeratorLibrary\\HotelMinibar.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\HotelMinibar.cs",
+              "RelativeToolTip": "RefrigeratorLibrary\\HotelMinibar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:44:44.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefrigeratorWithFreezer.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\RefrigeratorWithFreezer.cs",
+              "RelativeDocumentMoniker": "RefrigeratorLibrary\\RefrigeratorWithFreezer.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\RefrigeratorWithFreezer.cs",
+              "RelativeToolTip": "RefrigeratorLibrary\\RefrigeratorWithFreezer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:44:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Refrigerator.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\Refrigerator.cs",
+              "RelativeDocumentMoniker": "RefrigeratorLibrary\\Refrigerator.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\Refrigerator.cs",
+              "RelativeToolTip": "RefrigeratorLibrary\\Refrigerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:43:38.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRefrigerator.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\BaseRefrigerator.cs",
+              "RelativeDocumentMoniker": "RefrigeratorLibrary\\BaseRefrigerator.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\BaseRefrigerator.cs",
+              "RelativeToolTip": "RefrigeratorLibrary\\BaseRefrigerator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:43:15.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnergyEfficiency.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\EnergyEfficiency.cs",
+              "RelativeDocumentMoniker": "RefrigeratorLibrary\\EnergyEfficiency.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\EnergyEfficiency.cs",
+              "RelativeToolTip": "RefrigeratorLibrary\\EnergyEfficiency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:41:36.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvalidTemperatureExeption.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\InvalidTemperatureExeption.cs",
+              "RelativeDocumentMoniker": "RefrigeratorLibrary\\InvalidTemperatureExeption.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\InvalidTemperatureExeption.cs",
+              "RelativeToolTip": "RefrigeratorLibrary\\InvalidTemperatureExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:42:40.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartFridge.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\SmartFridge.cs",
+              "RelativeDocumentMoniker": "RefrigeratorLibrary\\SmartFridge.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigeratorLibrary\\SmartFridge.cs",
+              "RelativeToolTip": "RefrigeratorLibrary\\SmartFridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T17:30:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\main.cs",
+              "RelativeDocumentMoniker": "RefrigatorProject\\main.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\main.cs [Design]",
+              "RelativeToolTip": "RefrigatorProject\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T12:57:56.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\main.Designer.cs",
+              "RelativeDocumentMoniker": "RefrigatorProject\\main.Designer.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\main.Designer.cs",
+              "RelativeToolTip": "RefrigatorProject\\main.Designer.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAASwG8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:22:43.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\Program.cs",
+              "RelativeDocumentMoniker": "RefrigatorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\Program.cs",
+              "RelativeToolTip": "RefrigatorProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:15:34.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAdd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\FormAdd.Designer.cs",
+              "RelativeDocumentMoniker": "RefrigatorProject\\FormAdd.Designer.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\FormAdd.Designer.cs",
+              "RelativeToolTip": "RefrigatorProject\\FormAdd.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:12:26.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\FormAdd.cs",
+              "RelativeDocumentMoniker": "RefrigatorProject\\FormAdd.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\FormAdd.cs [Design]",
+              "RelativeToolTip": "RefrigatorProject\\FormAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:04:43.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\main.cs",
+              "RelativeDocumentMoniker": "RefrigatorProject\\main.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\main.cs",
+              "RelativeToolTip": "RefrigatorProject\\main.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAcwGEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:56:34.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAdd.cs",
+              "DocumentMoniker": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\FormAdd.cs",
+              "RelativeDocumentMoniker": "RefrigatorProject\\FormAdd.cs",
+              "ToolTip": "C:\\Users\\peche\\OneDrive\\Desktop\\RefrigatorProject\\RefrigatorProject\\FormAdd.cs",
+              "RelativeToolTip": "RefrigatorProject\\FormAdd.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:38:49.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

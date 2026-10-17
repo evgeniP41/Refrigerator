@@ -1,0 +1,11 @@
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\bin\Debug\net10.0\RefrigeratorLibrary.deps.json
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\bin\Debug\net10.0\RefrigeratorLibrary.dll
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\bin\Debug\net10.0\RefrigeratorLibrary.pdb
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\RefrigeratorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\RefrigeratorLibrary.AssemblyInfoInputs.cache
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\RefrigeratorLibrary.AssemblyInfo.cs
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\RefrigeratorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\RefrigeratorLibrary.dll
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\refint\RefrigeratorLibrary.dll
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\RefrigeratorLibrary.pdb
+C:\Users\peche\OneDrive\Desktop\RefrigatorProject\RefrigeratorLibrary\obj\Debug\net10.0\ref\RefrigeratorLibrary.dll
